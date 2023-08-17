@@ -39,10 +39,10 @@ models:
 
 vars:
     facebook_ads_schema: facebook_ads
-    facebook_ads_database: facebook_ads 
+    facebook_ads_database: y42-base 
 
     google_ads_schema: google_ads
-    google_ads_database: google_ads
+    google_ads_database: y42-base
 
     ad_reporting__amazon_ads_enabled: False
     ad_reporting__apple_search_ads_enabled: False
